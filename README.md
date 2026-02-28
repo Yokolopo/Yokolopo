@@ -27,4 +27,4 @@ Nmap | Wireshark | Metasploit | Burp Suite | Hydra | CrackMapExec
 ---
 
 ## 📫 Contact
-LinkedIn: (add your linkedin link)
+LinkedIn: https://www.linkedin.com/in/youness-younes-8041403b0/
