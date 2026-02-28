@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello, I'm Younes | Junior Cybersecurity Analyst
 
-<!--
-**Yokolopo/Yokolopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 CompTIA Security+ & Network+ Certified  
+🧪 Hands-on Cybersecurity Labs (INE)  
+🛡️ SOC Operations & Penetration Testing  
+🌍 Open to Remote Cybersecurity Opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Skills
+- Network Enumeration
+- Vulnerability Assessment
+- Privilege Escalation
+- Incident Analysis
+- Linux & Windows Security
+
+---
+
+## 🛠 Tools
+Nmap | Wireshark | Metasploit | Burp Suite | Hydra | CrackMapExec
+
+---
+
+## 📂 Cybersecurity Projects
+🚧 Currently building hands-on cybersecurity lab portfolio.
+
+---
+
+## 📫 Contact
+LinkedIn: (add your linkedin link)
