@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Younes | Junior Cybersecurity Analyst
+# 👋 Hello, I'm Youness I | Junior Cybersecurity Analyst
 
 🔐 CompTIA Security+ & Network+ Certified  
 🧪 Hands-on Cybersecurity Labs (INE)  
