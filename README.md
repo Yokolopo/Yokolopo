@@ -8,7 +8,7 @@ I'm based in Morocco and work on web apps, developer tools, and mobile product e
 🌍 **Open to international remote developer roles and contract projects**  
 🏢 **Company & project portfolio:** [yoxondevllc.tech](https://yoxondevllc.tech)  
 🧠 **AI CV Studio product:** [yoxon.co](https://yoxon.co)  
-📩 **Contact:** [youness.ihbane@gmail.com](mailto:youness.ihbane@gmail.com) · [LinkedIn](https://www.linkedin.com/in/youness-younes-8041403b0/)
+📩 **Contact:** [admin@yoxon.co](mailto:admin@yoxon.co) · [LinkedIn](https://www.linkedin.com/in/youness-younes-8041403b0/)
 
 ## What I work with
 
@@ -52,4 +52,4 @@ Android app work centered on customer balances, payment records, local data inte
 
 I'm interested in **remote Full-Stack Developer, React/Next.js Developer, AI Application Developer, and Flutter Developer** opportunities, including international contract work.
 
-**[View company & portfolio](https://yoxondevllc.tech)** · **[Explore my AI CV product](https://yoxon.co)** · **[Email me](mailto:youness.ihbane@gmail.com)**
+**[View company & portfolio](https://yoxondevllc.tech)** · **[Explore my AI CV product](https://yoxon.co)** · **[Email me](mailto:admin@yoxon.co)**
